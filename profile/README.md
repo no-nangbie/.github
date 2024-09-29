@@ -6,7 +6,7 @@
 
 # 낭비없냉
 
-### 프로젝트 소개
+## 프로젝트 소개
 - 나의 냉장고 속 식료품을 관리하는 서비스입니다.
 - 냉장고 속 식료품을 가지고 만들 수 있는 요리를 검색 할 수 있습니다.
 - 사용자의 취향 및 알레르기 정보, 식료품의 상태에 따라 최적의 요리 레시피를 추천해 줍니다.
@@ -14,13 +14,13 @@
 - URL : https://nonangbie.site
 <br/>
 
-### 기대효과
+## 기대효과
 식료품 소비기한을 관리하고 불필요한 지출 및 음식물 쓰레기 발생을 최소화에 도움을 줄 수 있습니다.
 
 <br/>
 <hr/>
 
-### 📝 관련 문서
+## 📝 관련 문서
 
 #### [📌 요구사항 정의서](https://docs.google.com/spreadsheets/d/1gfuB42EHzzEN3mD6FSUGyY0NquEhttps://docs.google.com/spreadsheets/d/1fiRrCwtlphy_jmjqqs45Bgn-7dJVolpgS5HwgvlJ5A0/edit)
 
@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-# 구성원
+## 구성원
 <table>
   <tbody>
     <tr width='100%'>
@@ -60,10 +60,10 @@
 <br/>
 <br/>
 
-### 프로젝트 아키텍처
+## 프로젝트 아키텍처
 <img src="https://github.com/no-nangbie/.github/blob/main/resource/%EB%82%AD%EB%B9%84%EC%97%86%EB%83%89_%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png" alt="Project togedog_wireframe" width="600">
 
-### 개발환경
+## 개발환경
  - 개발도구: Intellij IDEA
  - 언어: Java 11 Open JDK
  - 빌드도구: Gradle
@@ -99,7 +99,7 @@
  - 기타
    - Slack
   
-### 기술 스택
+## 기술 스택
 <span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -157,13 +157,13 @@
 | :---: | :---: |
 | <img src="https://github.com/no-nangbie/.github/blob/main/gif/%ED%9A%8C%EC%9B%90%ED%83%88%ED%87%B4.gif" width="250" height="500"/> | <img src="https://github.com/no-nangbie/.github/blob/main/gif/%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8%20%EB%B3%80%EA%B2%BD.gif" width="250" height="500"/> |
 
-### 구성원 별 담당 내용
+## 구성원 별 담당 내용
 
-#### 신민준
+### 신민준
 
 <br/>
 
-#### 윤영아
+### 윤영아
 
 > #### 프로젝트 설계
 기능에 따른 사용자의 요구 사항 분석
@@ -180,11 +180,11 @@
 
 <br/>
 
-#### 양수명
+### 양수명
 
 <br/>
 
-#### 김준하
+### 김준하
 
 > #### 프로젝트 설계
 - ERD 설계 및 관리
@@ -208,20 +208,21 @@
 <br/>
 
 <hr/>
-### 프로젝트 회고
 
-#### 신민준
+## 프로젝트 회고
+
+### 신민준
 
 <br/>
 
-#### 윤영아
+### 윤영아
 >  프로젝트를 진행하면서 프론트엔드와 백엔드의 데이터 연동 작업을 통해 시스템의 전반적인 구조를 이해하는 능력을 키울 수 있었습니다. 또한, 다양한 예외 상황을 고려하여 기능을 구현하는 과정에서 문제 해결 능력이 크게 향상되었습니다. 철저한 시간 관리 덕분에 프로젝트 마감 기한을 준수할 수 있었고, 이를 통해 주어진 기간 내에 목표를 달성하는 능력을 키웠습니다. 특히 이번 프로젝트를 하며 팀원들과의 원활한 소통을 통해 협업의 중요성을 깨닫게 되었으며, 이 경험을 통해 더욱 효율적인 개발 방법과 체계적인 작업 방식을 습득할 수 있었습니다.
 
 <br/>
 
-#### 양수명
+### 양수명
 
 <br/>
 
-#### 김준하
+### 김준하
 > 보안성을 강화하기 위해 HTTPS를 적용하는 과정에서 많은 문제가 발생했다. 인증서 발급, 설정 충돌, 그리고 웹 서버 구성에 대한 이해 부족으로 인해 SSL 인증서 적용과 트래픽 관리 설정이 원활하지 않았다. 이를 해결하기 위해 Nginx 설정을 재구성하고, 인증서 충돌을 해결하는 데 많은 시간이 소요되었다.
