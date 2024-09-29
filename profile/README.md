@@ -76,261 +76,60 @@
 <br/>
 <br/>
 
-# Tasks & Responsibilities (작업 및 역할 분담)
-|  |  |  |
-|-----------------|-----------------|-----------------|
-| 👑<br>   신민준   |  <img src="https://github.com/user-attachments/assets/7cd2442d-bad2-4499-b3a6-8f4563c0502d" alt="신민준" width="100"> | <ul><li>프로젝트 계획 및 관리</li><li>팀 리딩 및 커뮤니케이션</li><li>JWT Security 구현</li></li><li>UI/UX 구현</li></ul>     |
-|   윤영아   |  <img src="https://github.com/user-attachments/assets/2d362c3d-0ad7-47b1-8238-3d76412a4756" alt="윤영아" width="100" height="70">| <ul><li>길드 검색, 길드 보드, 길드원 관리 페이지 게시판 제작</li><li>길드, 이벤트 조회 및 상세 확인, 길드원 가입 신청 및 수락 기능</li><li>Axios 를 활용한 백엔드와의 비동기 통신 구현</li><li>페이지별 컴포넌트 세분화 및 코드 베이스 일관화</li></ul> |
-|   양수명   |  <img src="https://github.com/user-attachments/assets/c20ac766-1351-41fe-98e3-924b6aa854f0" alt="양수명" width="100" height="80" height="80">    |<ul><li>테이블 설계 및 객체 연관 관계 매핑</li><li>인증, 인가를 위한 시큐리티 적용 및 JWT 구현 </li><li>레디스를 활용한 로그아웃 구현</li><li>계층 구조에 따른 회원가입, 길드 가입요청, 가입요청수락 등 전반적인 핵심 서비스 로직 구현</li><li>전역 예외 처리 구현</li></ul>  |
-|   김준하    |  <img src="https://github.com/user-attachments/assets/080bf5a1-bc7d-4279-944f-9a2ca49f562c" alt="김준하" width="100" height="80">    | <ul><li>메뉴 CRUD</li><li>Web Speech API 연결</li><li>EC2 및 S3 배포</li><li>요구사항 분석을 통한 테이블 관계 정의 및 ERD 정규화</li><li>HTTPS 도메인 적용</li></ul>    |
-
+# 구성원
+<table>
+  <tbody>
+    <tr width='100%'>
+      <th align="center" width='10%'>팀장 신민준</th>
+      <th align="center" width='17%'>팀원 윤영아</th>
+      <th align="center" width='14%'>팀원 양수명</th>
+      <th align="center" width='17%'>팀원 김준하</th>
+    </tr>
+    <tr>
+      <td align="center"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/7cd2442d-bad2-4499-b3a6-8f4563c0502d"></td>
+      <td align='center'><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/2d362c3d-0ad7-47b1-8238-3d76412a4756"></td>
+      <td align='center'><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/c20ac766-1351-41fe-98e3-924b6aa854f0"></td>
+      <td align='center'><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/080bf5a1-bc7d-4279-944f-9a2ca49f562c"></td>
+    </tr>
+    <tr>
+      <td width="150"><a href="https://github.com/JINHYEOKKK">@Tizesin</a></td>
+      <td width="150"><a href="https://github.com/Tizesin">@wooil6</a></td>
+      <td width="150"><a href="https://github.com/chaeneeee">@Lifesheep1</a></td>
+      <td width="150"><a href="https://github.com/HJk29">@HJk29</a></td>
+    </tr>  
+  </tbody>
+</table>
 <br/>
 <br/>
 
 # Technology Stack (기술 스택)
 ### 🔨 Front-end
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 
 
 ### ⛏ Back-end
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 <br/>
 
 ### ⛏ Database & Caching
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 
 
 <br/>
 
 ### ⛏ Etc
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white"><img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
 
-<br/>
-
-
-
-
-# Project Structure (프로젝트 구조)
-<br>
-<details>
-
-<summary> 📂 프로젝트 폴더 구조</summary>
-
-```
-🏠 최애의 i
-├─ .github
-│  └─ ISSUE_TEMPLATE  ─────────────── 📝 이슈 템플릿
-│
-├─ 📂 client
-│  │─ .env.sample
-│  │─ .eslintrc.json  ──────────────── ⚙️ eslint 설정 파일
-│  │─ .gitignore
-│  │─ .prettierrc.json ─────────────── ⚙️ prettier 설정 파일
-│  │─ package-lock.json
-│  │─ package.json
-│  │
-│  ├─ ├─ public
-├─  src
-│  ├─ App.css
-│  ├─ App.js
-│  ├─ Global.css
-│  ├─ auth ─────────────────────────────── 🙋‍♂️ 로그인 전역 관리 파일
-│  │  ├─ UsePersistedState.jsx
-│  │  └─ index.jsx
-│  ├─ component ────────────────────────── 🗂️ 각 페이지에서 사용되는 컴포넌트
-│  │  ├─ GuildBoardPage
-│  │  ├─ GuildListPage
-│  │  ├─ HomePage
-│  │  ├─ SignUpPage
-│  │  ├─ ManagePage
-│  │  │  ├─ ManagePlayerTab.js
-│  │  │  ├─ PlayerItem.js
-│  │  │  ├─ PlayerList.js
-│  │  │  ├─ PlayersItem.js
-│  │  │  ├─ Tab.js
-│  │  │  ├─ WaitList.js
-│  │  │  ├─ WaitPlayersItem.js
-│  │  │  └─ memberGuildData.js
-│  │  ├─ LargeModal.js ──────────────────── 🗂️ 모든 페이지에서 공통으로 사용되는 컴포넌트
-│  │  ├─ Modal.js
-│  │  ├─ OutPut.js
-│  │  └─ RegistInput.js
-│  ├─ image 
-│  │  ├─ loastark.png
-│  │  ├─ lol.png
-│  │  ├─ overwatch.png
-│  │  └─ valorant.png
-│  ├─ logo
-│  │  ├─ fulllogo_white.png
-│  │  ├─ fulllogo_white_big.png
-│  │  └─ logo_white.png
-│  ├─ pages ─────────────────────────────── 🗂️ 라우팅이 적용된 API를 요청하는 페이지 컴포넌트
-│  │  ├─ GlobalHeader.js
-│  │  ├─ GuildBoardPage.js
-│  │  ├─ GuildListPage.js
-│  │  ├─ HomePage.js
-│  │  ├─ LandingPage.js
-│  │  ├─ LoginPage.js
-│  │  ├─ ManagePage.js
-│  │  ├─ MyPage.js
-│  │  └─ SignUpPage.js
-│  │
-│  ├─setupTests.js
-│  ├─ index.css
-│  ├─ index.js
-│  └─ logo.svg
-│
-└─ 📂 server
-   │─ .gitignore
-   │─ build.gradle
-   │─ gradlew
-   │─ gradlew.bat
-   │─ settings.gradle
-   │
-   ├─ 📂 gradle-wrapper
-   │  ├─ gradle-wrapper.jar
-   │  └─ gradle-wrapper.properties
-   │
-   └─ └─ src
-   ├─ main
-   │  └─ java
-   │     └─ com
-   │        └─ continewbie
-   │           └─ guild_master
-   │              ├─ GuildMasterApplication.java
-   │              ├─ advice
-   │              │  └─ GlobalExceptionAdvice.java
-   │              ├─ auditable
-   │              │  └─ Auditable.java
-   │              ├─ auth
-   │              │  ├─ controller
-   │              │  │  └─ AuthController.java
-   │              │  ├─ dto
-   │              │  │  └─ LoginDto.java
-   │              │  ├─ filter
-   │              │  │  ├─ JwtAuthenticationFilter.java
-   │              │  │  └─ JwtVerificationFilter.java
-   │              │  ├─ handler
-   │              │  │  ├─ MemberAccessDeniedHandler.java
-   │              │  │  ├─ MemberAuthenticationEntryPoint.java
-   │              │  │  ├─ MemberAuthenticationFailureHandler.java
-   │              │  │  └─ MemberAuthenticationSuccessHandler.java
-   │              │  ├─ jwt
-   │              │  │  └─ JwtTokenizer.java
-   │              │  ├─ service
-   │              │  │  └─ AuthService.java
-   │              │  ├─ userDetails
-   │              │  │  └─ MemberDetailsService.java
-   │              │  └─ utils
-   │              │     ├─ ErrorResponse.java
-   │              │     └─ JwtAuthorityUtils.java
-   │              ├─ config
-   │              │  └─ SecurityConfiguration.java
-   │              ├─ dto
-   │              │  ├─ MultiResponseDto.java
-   │              │  ├─ PageInfo.java
-   │              │  └─ SingleResponseDto.java
-   │              ├─ errorresponse
-   │              │  └─ ErrorResponse.java
-   │              ├─ event
-   │              │  ├─ controller
-   │              │  │  └─ EventController.java
-   │              │  ├─ dto
-   │              │  │  └─ EventDto.java
-   │              │  ├─ entity
-   │              │  │  └─ Event.java
-   │              │  ├─ mapper
-   │              │  │  └─ EventMapper.java
-   │              │  ├─ repository
-   │              │  │  └─ EventRepository.java
-   │              │  └─ service
-   │              │     └─ EventService.java
-   │              ├─ exception
-   │              │  ├─ BusinessLogicException.java
-   │              │  └─ ExceptionCode.java
-   │              ├─ game
-   │              │  ├─ controller
-   │              │  │  └─ GameController.java
-   │              │  ├─ dto
-   │              │  │  └─ GameDto.java
-   │              │  ├─ entity
-   │              │  │  └─ Game.java
-   │              │  ├─ mapper
-   │              │  │  └─ GameMapper.java
-   │              │  ├─ repository
-   │              │  │  └─ GameRepository.java
-   │              │  └─ service
-   │              │     └─ GameService.java
-   │              ├─ guild
-   │              │  ├─ controller
-   │              │  │  └─ GuildController.java
-   │              │  ├─ dto
-   │              │  │  └─ GuildDto.java
-   │              │  ├─ entity
-   │              │  │  └─ Guild.java
-   │              │  ├─ mapper
-   │              │  │  └─ GuildMapper.java
-   │              │  ├─ repository
-   │              │  │  └─ GuildRepository.java
-   │              │  └─ service
-   │              │     └─ GuildService.java
-   │              ├─ helper
-   │              │  └─ event
-   │              │     └─ MemberRegistrationApplicationEvent.java
-   │              ├─ member
-   │              │  ├─ controller
-   │              │  │  └─ MemberController.java
-   │              │  ├─ dto
-   │              │  │  └─ MemberDto.java
-   │              │  ├─ entity
-   │              │  │  └─ Member.java
-   │              │  ├─ mapper
-   │              │  │  └─ MemberMapper.java
-   │              │  ├─ repository
-   │              │  │  └─ MemberRepository.java
-   │              │  └─ service
-   │              │     └─ MemberService.java
-   │              ├─ memberguild
-   │              │  ├─ dto
-   │              │  │  └─ MemberGuildDto.java
-   │              │  ├─ entity
-   │              │  │  └─ MemberGuild.java
-   │              │  └─ mapper
-   │              │     └─ MemberGuildMapper.java
-   │              ├─ memeberevent
-   │              │  ├─ dto
-   │              │  │  ├─ MemberEventDto.java
-   │              │  │  └─ MemberEventResponseDto.java
-   │              │  ├─ entity
-   │              │  │  └─ MemberEvent.java
-   │              │  ├─ mapper
-   │              │  │  └─ MemberEventMapper.java
-   │              │  └─ repository
-   │              │     └─ MemberEventRepository.java
-   │              ├─ position
-   │              │  ├─ dto
-   │              │  │  └─ PositionDto.java
-   │              │  ├─ entity
-   │              │  │  └─ Position.java
-   │              │  └─ repository
-   │              │     └─ PositionRepository.java
-   │              ├─ redis
-   │              │  └─ RedisRepositoryConfig.java
-   │              └─ utils
-   │                 ├─ CustomBeanUtils.java
-   │                 ├─ DataInitializer.java
-   │                 ├─ UriCreator.java
-   │                 └─ validator
-   │                    ├─ InvalidEventDateException.java
-   │                    ├─ NotSpace.java
-   │                    └─ NotSpaceValidator.java
-   └─ test
-      └─ java
-         └─ com
-            └─ continewbie
-               └─ guild_master
-                  └─ GuildMasterApplicationTests.java
-```
 
 <br>
 <br/>
