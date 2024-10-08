@@ -226,13 +226,16 @@ Docker를 이용한 배포 및 AWS S3 연결
    • 회원가입 및 닉네임 중복 확인 기능 구현
    • 로그인/로그아웃 기능 개발 및 회원 탈퇴 처리
    • 회원 정보 수정(닉네임, 비밀번호) 기능 추가
+   
 인증 및 인가 적용:
 • Spring Security와 JWT, Redis를 활용한 인증 시스템 구현
 • 로그인 시 JWT 토큰 발급 및 Redis에 저장하여 세션 관리
 • 로그아웃 시 Redis에서 토큰 삭제 처리
 • 사용자 권한 부여: Admin과 User 계정에 따른 권한 설정
+
 API 인증 적용:
 • API Authentication 적용을 통해 보안 강화
+
 공통 패키지 구성:
 • Auditable, PaginationDto, ErrorResponse 등 공통적으로 필요한 패키지 구조 설계 및 구성
 
@@ -245,7 +248,9 @@ API 인증 적용:
 
 > #### 기타
 ﻿• Jmeter를 활용한 조회성능 측정
+ 
 • 인덱싱(Indexing)을 통해 레시피 조회 성능 4배 향상
+
 • 더미 데이터 생성 및 테스트 환경 조성
 
 
